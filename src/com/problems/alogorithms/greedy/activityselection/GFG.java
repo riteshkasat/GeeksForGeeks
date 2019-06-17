@@ -1,5 +1,7 @@
 package com.problems.alogorithms.greedy;
 
+import com.problems.alogorithms.greedy.activityselection.Pair;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

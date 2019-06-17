@@ -1,4 +1,4 @@
-package com.problems.alogorithms.greedy;
+package com.problems.alogorithms.greedy.activityselection;
 
 public class Pair implements Comparable<Pair> {
     public long getStartTime() {
